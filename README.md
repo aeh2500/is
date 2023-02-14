@@ -14,7 +14,7 @@ GIT AND GITHUB:
 . this is the command /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)". 
 . you have to open a terminal and type in $ ssh-keygen -t rsa -b 4096 -C "your_email@example.com" to connecting to github. 
 . after that you generate the ssh key to connect to your github. 
-. than you have to get the ssh public key and put it in github under your account to connect. 
+. than you have to get the ssh public key and put it in github under your account to connect.
 . than we go to the commandline and type in git clone "my email" . latesly git init to see which repo am I at.
 
 GITHUB: 
