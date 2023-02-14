@@ -1,4 +1,5 @@
 WEBSTORM:
+
 . First you go on google and search for the webstorm student for the free eductional tier.
 .https://www.jetbrains.com/community/education/#students, here you go apply now on the page.
 .https://www.jetbrains.com/shop/eform/students, it will take you to the page where you need to fill out your information.
