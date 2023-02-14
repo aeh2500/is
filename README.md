@@ -1,8 +1,6 @@
 WEBSTORM:
 . First you go on google and search for the webstorm student for the free eductional tier.
-
 .https://www.jetbrains.com/community/education/#students, here you go apply now on the page.
-
 .https://www.jetbrains.com/shop/eform/students, it will take you to the page where you need to fill out your information.
 . than for njit students they have to fill out a form for student approval with a picture of their njit id.
 . than someone from jetbrains will email confirming your membership with a link to download it the content.
